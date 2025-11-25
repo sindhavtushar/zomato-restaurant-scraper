@@ -2,13 +2,13 @@
 
 A Python-based web scraping project that extracts restaurant details from Zomato.
 
-## 🚀 Features
+## Features
 - Scrapes restaurant name, ratings, address, cost, and more
 - Handles pagination
 - Saves output in structured format
 - Error-handling and modular design
 
-## 📂 Project Structure
+## Project Structure
 src/
 ├── main.py
 ├── helper.py
